@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "s-travel-dwmlrw",
+  "private_key_id": "63791d9bef2aa0676b11ec0d3ec439415c8ef9dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCre6OPrHK1X6+T\nd1gVLcMN4qlGSTcy/rgbBe5u55o/jd1AZpNaX2EbOgHCGvECdgI8DYKZm+mFUMR9\nWU6R4+4tNRmZ1/FMZ4UQel4Xv/KDSa6x2mbEWutUJPoH1LAwtAkKayFz5zMzsSG6\nVwJVf1TC11EwM6Z+NDxNaWFyeddxaihhkfJzpHJ8y2+P3pxJYUbOLbnMIhwAicz5\niMVgAeIYEX2fbMbiJRIL2zOG11+ir8P/hoCJm//fcEKqwJx4gfBB2GOBD1OOkQxO\nV0FyiE6fhrKiu/k2/O+K+9n+yy7711bHROSQuoQ+fR4r8m2prhArHVU28fH22vEf\nCjdOJSN7AgMBAAECggEAOyOBFVfyGVXd/bvfTzKAfcXo/dnbJQWOZZdmkq3h1sAs\niPy3HageG58mIxRagLBE9gPswd/wqW7gzJ/jhlG2frW81f8QcvqSe8vPrl4emyNq\nkWCSJ255kQPNjKzPdIRqR8MJfujBkjaovJQsNGMczrMmBzsQ1J5cG5BXsHyPjcdu\nyn0JwxldWMlp11fuDJNSabQLJQ2YoylaMytH9EgzFs7+XVzhn5i7Cas7wC5njbJ8\n+E88nz01AL/1p4pS+NbhLICpEJAEEFPPXEf9hj/Yk3Q3mluhNsrzwlfBkNR+Xjzd\nPiIbUdGzljNrEq78uWsGs8CVh4SivcYmN+WBzQCrRQKBgQDoWN1jeuENUmy/TGUC\nJS0Yvu3KOKiIAgpBqRQZNwsLJa3sjgcFnpVLuwgSNNVFZPJAd1Vw2HJANZbFp/8Y\ndz9UZRjcrPZysbBHmdvxYRnyWZo75ILMN/cipue+liPATpp3IkL1xDTj9ReT0bGm\nVb1oXaDfyEq3GDFF15TL/izc7wKBgQC88JwXCxO687uQ3PRCjVhf3Non78GeisGz\nAiYhw6UyyJHkDfUA7nLskSslIfs4COxqatj4A44oL8Pt120Khj+Z+Nn9nsaiR2yC\nWi5w1tEl6EbrBxAGbgFZL39Auq/VoMJBwCo70jmHZEqy4kkqxYVsps7XFBJn3yge\nxtvPZob6NQKBgQDgBr7/6j0QsUa1dJ134gyHbaCteM/Ww9DL2pDMdywoxV3bVl4i\n5vMgn+d6VoLEdD64NdemBKy0iHclgYQPPPtNDmVYcVT25akIgKt3I57287oowX30\nFootWSzdsLor9B4vfFN/0H0GxwzCtE9MCCOme5Bf9SlFPQhVRTXtMthi9QKBgB9N\nle7TbP9qZkcH9IgaNuwbASHgvSlxP8pSrtKlQXd6d4FbNp5i4zOCka1jReXwxIqV\nDUF6BVFvKHz9VhmKSHtQGX3Fko9MWhP2sP8M+DXZl/ZUgzktfJe0INculvdD3Stb\nlSO4HsPpv96HUyv88bAgquBDeREwjcsbk0t3ZyGJAoGAC/3V53zCOMfeWdSwy10/\n/ykCGySzeuwLOAoyPOYHW3gkLC8r9QcARkORBwlscXJI5etLVdqX2altnpNU5Ty8\nx02dV378WGjcjXac3meCfCzu6BStUFJpLfRaVEJ706BNzOZOtf2PRN2LDvI4feM4\nGsRGfGpM6TIzdQqoY3Y3RJA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "s-travel-dwmlrw@appspot.gserviceaccount.com",
+  "client_id": "115458122726099529859",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/s-travel-dwmlrw%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
